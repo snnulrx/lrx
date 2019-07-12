@@ -1405,10 +1405,11 @@ i.fa.fa-mobile {
 	
 }
 .about-bottom-grid p {
-    font-size: 14px;
-    line-height: 30px;
-    text-align: left;
-    color: #4c4c4c;
+	font-size: 18px;
+	line-height: 30px;
+	color: #4c4c4c;
+	font-weight: bold;
+	font-family: "微软雅黑 Light", "微软雅黑";
 }
 .about-bottom-grid h4 {
     text-align: left;
@@ -1810,7 +1811,8 @@ span.circles-text {
 		margin: 0 0 17px;
 	}
 	.banner-right span {
-		font-size: 55px;
+	font-size: 55px;
+	font-family: "Lucida Console", Monaco, monospace;
 	}
 	.thim-click-to-bottom {
 		bottom: 44%;
@@ -1828,7 +1830,11 @@ span.circles-text {
 		margin: 50px 0 40px;
 	}
 	.about-bottom-grid h4{
-		letter-spacing:2px;
+	letter-spacing: 2px;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: #900;
 	}
 	.wthree_about_right_grid {
 		width: 33.33%;
